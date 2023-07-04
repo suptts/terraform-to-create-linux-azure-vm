@@ -1,7 +1,5 @@
 # terraform-to-create-linux-azure-vm
 
-# https://learn.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-terraform#prerequisites 
-
 1. Initialize Terraform
 
 ```terraform
