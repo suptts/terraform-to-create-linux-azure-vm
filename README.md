@@ -4,15 +4,18 @@
 
 1. Initialize Terraform
 
-`terraform init -upgrade`
+```terraform
+terraform init -upgrade`
+```
 
 2. Create a Terraform execution plan - To rerun start here
-
-`terraform plan -out main.tfplan`
-
+```terraform
+terraform plan -out main.tfplan
+```
 3. Apply a Terraform execution plan
-   
-`terraform apply main.tfplan`
+```terraform   
+terraform apply main.tfplan
+```
 
 4. Verify the results - To use SSH to connect to the virtual machine, do the following steps:
 
