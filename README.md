@@ -3,7 +3,7 @@
 1. Initialize Terraform
 
 ```terraform
-terraform init -upgrade`
+terraform init -upgrade
 ```
 
 2. Create a Terraform execution plan - To rerun start here
